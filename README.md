@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">My Techs</p>
+<h2 align="left">My Techs</h2>
 
 ###
 

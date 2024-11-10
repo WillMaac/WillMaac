@@ -3,7 +3,10 @@
 ###
 
 <p align="left">Meu nome é Anderson De Jesus e sou Desenvolvedor Front - End, de Sp, Brasil 🇧🇷</p>
-
+<p align="left">💜 Apaixonada por tecnologia e por desenvolver soluções
+🎓 Análise e Desenvolvimento de Sistemnas
+💻 Desenvolvedor Front-end
+🎮 Gamer nas horas vagas </p>
 ###
 
 <h2 align="left">My Stats</h2>

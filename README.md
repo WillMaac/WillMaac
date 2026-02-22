@@ -10,7 +10,6 @@ Hoje, desenvolvo aplicações web com React, Next.js e TypeScript, sempre priori
 
 Tenho ampliado minha atuação no desenvolvimento mobile com React Native, buscando criar experiências multiplataforma com consistência e alta qualidade.
 
----
 
 ### 🤖 Linguagens e Tecnologias
 

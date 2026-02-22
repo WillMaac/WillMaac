@@ -1,6 +1,13 @@
-# 👩🏻‍💻 Anderson de Jesus
+<h1 align="center">👩🏻‍💻 Anderson de Jesus</h1>
 
-*Desenvolvedor Frontend*
+<p align="center">
+  <strong>Desenvolvedor Frontend</strong><br/>
+ReactJS | React Native | Nextjs
+</p>
+
+
+
+## 🚀 Sobre mim
 
 Me chamo Anderson de Jesus, tenho 27 anos e sou Desenvolvedor Frontend Júnior.
 
@@ -11,92 +18,55 @@ Hoje, desenvolvo aplicações web com React, Next.js e TypeScript, sempre priori
 Tenho ampliado minha atuação no desenvolvimento mobile com React Native, buscando criar experiências multiplataforma com consistência e alta qualidade.
 
 
-### 🤖 Linguagens e Tecnologias
+Atualmente desenvolvendo aplicações com:
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React Native" 
-    title="React Native"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
-    />
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+- ⚛️ ReactJS
+- 📱 React Native
+- ⚡ NextJS
+- 🎨 UI moderna e responsiva
+- 🧠 Clean Code & boas práticas
+
+
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,mysql" />
+</p>
+
+
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img 
+    height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WillMaac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
   />
+  <img 
+    height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WillMaac&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+</p>
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WillMaac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillMaac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"/>
-</div>
+## 🔥 Projetos em destaque
+
+🔹 Em breve adicionarei meus principais projetos aqui.
+
+
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/WillMaac">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  💡 “Código limpo não é aquele que funciona. É aquele que qualquer desenvolvedor entende.”
+</p>

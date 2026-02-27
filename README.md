@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻 Anderson de Jesus</h1>
+<h1 align="center">👨🏿‍💻 Anderson de Jesus</h1>
 
 <p align="center">
   <strong>Desenvolvedor Frontend</strong><br/>
@@ -20,11 +20,24 @@ Tenho ampliado minha atuação no desenvolvimento mobile com React Native, busca
 
 Atualmente desenvolvendo aplicações com:
 
-- ⚛️ ReactJS
-- 📱 React Native
-- ⚡ NextJS
-- 🎨 UI moderna e responsiva
-- 🧠 Clean Code & boas práticas
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" /> React
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" /> React Native
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" /> Next.js
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind"  width= "30"/>Tailwind CSS
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" /> TypeScript
+</p>
 
 
 
@@ -39,31 +52,19 @@ Atualmente desenvolvendo aplicações com:
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WillMaac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
-  />
-  <img 
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WillMaac&layout=compact&theme=tokyonight&hide_border=true" 
-  />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WillMaac&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WillMaac&layout=compact&theme=tokyonight" />
 </p>
 
-
-
-## 🔥 Projetos em destaque
-
-🔹 Em breve adicionarei meus principais projetos aqui.
 
 
 
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://github.com/WillMaac">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/andersonde-jesus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:andersonwj9@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>>
 
 
 

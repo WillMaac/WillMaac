@@ -7,7 +7,7 @@ ReactJS | React Native | Nextjs
 
 
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Me chamo Anderson de Jesus, tenho 27 anos e sou Desenvolvedor Frontend Júnior.
 
@@ -21,27 +21,27 @@ Tenho ampliado minha atuação no desenvolvimento mobile com React Native, busca
 Atualmente desenvolvendo aplicações com:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" /> React
+   React
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" /> React Native
+   React Native
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30" /> Next.js
+   Next.js
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind"  width= "30"/>Tailwind CSS
+  Tailwind CSS
 </p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" /> TypeScript
+   TypeScript
 </p>
 
 
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,mysql" />
@@ -49,7 +49,7 @@ Atualmente desenvolvendo aplicações com:
 
 
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WillMaac&show_icons=true&theme=tokyonight" />
@@ -59,12 +59,12 @@ Atualmente desenvolvendo aplicações com:
 
 
 
-## 📫 Contato
+##  Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andersonde-jesus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="mailto:andersonwj9@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>>
+</p>
 
 
 

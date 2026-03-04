@@ -39,14 +39,24 @@ Atualmente desenvolvendo aplicações com:
    TypeScript
 </p>
 
+<p align="left">
+   Figma
+</p>
+<p align="left">
+   Python
+</p>
+
+
+<p align="left">
+   MySQL
+</p>
 
 
 ##  Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,mysql,java,python,figma" />
 </p>
-
 
 
 ##  Estatísticas

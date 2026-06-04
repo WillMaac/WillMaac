@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Frontend</strong><br/>
-ReactJS | React Native | Nextjs
+JavaScript | TypeScript | React | React Native | Nextjs
 </p>
 
 

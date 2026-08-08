@@ -1,40 +1,47 @@
 <h1 align="center">👨🏿‍💻 Anderson de Jesus</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Frontend</strong><br/>
-JavaScript | TypeScript | React | React Native | Nextjs
+  <strong>Desenvolvedor Full Stack</strong><br/>
+Java | JavaScript | React | React Native
 </p>
 
 
 
 ##  Sobre mim
 
-Me chamo Anderson de Jesus, tenho 27 anos e sou Desenvolvedor Frontend Júnior.
+Me chamo Anderson de Jesus, tenho 27 anos e sou Desenvolvedor Full Stack Júnior.
 
-Minha entrada na tecnologia não foi por acaso; foi uma escolha consciente: migrar da área da saúde para o desenvolvimento de software, buscando um campo em que eu pudesse construir soluções e gerar impacto real por meio da tecnologia.
+Minha entrada na tecnologia foi uma escolha consciente. Depois de uma experiência na área da saúde, decidi migrar para o desenvolvimento de software e encontrei na programação uma forma de transformar problemas em soluções por meio da tecnologia.
 
-Hoje, desenvolvo aplicações web com React, Next.js e TypeScript, sempre priorizando clareza na arquitetura, organização do código e performance. Não me preocupo apenas em “fazer funcionar”, mas em compreender o porquê das decisões técnicas e construir soluções sustentáveis.
+Gosto de aprender construindo. Por isso, meus estudos são acompanhados de projetos próprios, onde procuro colocar em prática os conceitos que estou aprendendo e entender não apenas como uma tecnologia funciona, mas também quando, por que e onde utilizá-la.
 
-Tenho ampliado minha atuação no desenvolvimento mobile com React Native, buscando criar experiências multiplataforma com consistência e alta qualidade.
+Atualmente, meu foco está no desenvolvimento Full Stack, trabalhando com Java, JavaScript e React. Também venho explorando o desenvolvimento mobile com React Native.
 
+Um dos projetos que estou desenvolvendo atualmente é um sistema Full Stack de gestão e acompanhamento em saúde, utilizando Java no backend e React no frontend. O projeto envolve regras de negócio, APIs, gerenciamento de usuários, profissionais, especialidades, agendamentos, consultas, exames, retornos, encaminhamentos e notificações.
 
+Além desse projeto, já desenvolvi aplicações como um sistema de gerenciamento de biblioteca em Java, um sistema de agendamento para barbearia em React e um portfólio profissional para uma arquiteta.
+
+Meu objetivo é evoluir constantemente como desenvolvedor, aprofundando meus conhecimentos em backend, frontend, APIs, bancos de dados, arquitetura de software e sistemas escaláveis.
 Atualmente desenvolvendo aplicações com:
+
+<p align="left">
+   JavaScript
+</p>
+
+<p align="left">
+   Java
+</p>
 
 <p align="left">
    React
 </p>
 
-<p align="left">
-   React Native
-</p>
 
-<p align="left">
-   Next.js
-</p>
 
 <p align="left">
   Tailwind CSS
 </p>
+
 <p align="left">
    TypeScript
 </p>

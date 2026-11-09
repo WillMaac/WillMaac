@@ -9,7 +9,7 @@ Java | JavaScript | React | React Native
 
 ##  Sobre mim
 
-Me chamo Anderson de Jesus, tenho 27 anos e sou Desenvolvedor Full Stack Júnior.
+Me chamo Anderson de Jesus, tenho 28 anos e sou Desenvolvedor Full Stack Júnior.
 
 Minha entrada na tecnologia foi uma escolha consciente. Depois de uma experiência na área da saúde, decidi migrar para o desenvolvimento de software e encontrei na programação uma forma de transformar problemas em soluções por meio da tecnologia.
 
